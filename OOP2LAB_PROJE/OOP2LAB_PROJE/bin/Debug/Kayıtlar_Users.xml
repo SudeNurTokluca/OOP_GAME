@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Id>0</Id>
+    <Username>user</Username>
+    <Password>04F8996DA763B7A969B1028EE3007569EAF3A635486DDAB211D512C85B9DF8FB</Password>
+    <NameSurname>user user</NameSurname>
+    <PhoneNumber>011</PhoneNumber>
+    <Address>xxx</Address>
+    <City>xxx</City>
+    <Country>xxx</Country>
+    <Email>xxx</Email>
+  </User>
+  <User>
+    <Id>1</Id>
+    <Username>a</Username>
+    <Password>CA978112CA1BBDCAFAC231B39A23DC4DA786EFF8147C4E72B9807785AFEE48BB</Password>
+    <NameSurname>a</NameSurname>
+    <PhoneNumber>a</PhoneNumber>
+    <Address>a</Address>
+    <City>a</City>
+    <Country>a</Country>
+    <Email>a</Email>
+  </User>
+</Users>

@@ -1,0 +1,54 @@
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.AssemblyReference.cache
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.SuggestedBindingRedirects.cache
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.MultiplayerServer.resources
+C:\Users\SUDE\Desktop\Yeni klasör (2)\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Multiplayer.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.AssemblyReference.cache
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.SuggestedBindingRedirects.cache
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.MultiplayerServer.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Multiplayer.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\suden\OneDrive\Masaüstü\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb

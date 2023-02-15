@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2LAB_PROJE", "OOP2LAB_PROJE\OOP2LAB_PROJE.csproj", "{C675E1A6-82AF-4F1C-BD4F-A571E0968BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServer", "TCPServer\TCPServer.csproj", "{783A1A02-157E-464B-B1BA-689CDB5D3C6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "TCPClient\TCPClient.csproj", "{890A74E7-41A2-40A5-AB02-AE562725A7E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C675E1A6-82AF-4F1C-BD4F-A571E0968BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C675E1A6-82AF-4F1C-BD4F-A571E0968BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C675E1A6-82AF-4F1C-BD4F-A571E0968BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C675E1A6-82AF-4F1C-BD4F-A571E0968BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783A1A02-157E-464B-B1BA-689CDB5D3C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783A1A02-157E-464B-B1BA-689CDB5D3C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783A1A02-157E-464B-B1BA-689CDB5D3C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783A1A02-157E-464B-B1BA-689CDB5D3C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890A74E7-41A2-40A5-AB02-AE562725A7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890A74E7-41A2-40A5-AB02-AE562725A7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890A74E7-41A2-40A5-AB02-AE562725A7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890A74E7-41A2-40A5-AB02-AE562725A7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C27235E-292D-4895-BD00-7056BB6FB316}
+	EndGlobalSection
+EndGlobal

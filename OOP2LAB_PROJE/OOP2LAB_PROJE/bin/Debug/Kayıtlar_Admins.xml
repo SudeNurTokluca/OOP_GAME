@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Users>
+	<User>
+		<id>0</id>
+		<Username>admin</Username>
+		<Password>8C6976E5B5410415BDE908BD4DEE15DFB167A9C873FC4BB8A81F6F2AB448A918</Password>
+		<NameSurname>admin</NameSurname>
+    		<PhoneNumber>000</PhoneNumber>
+    		<Address>xxx</Address>
+    		<City>xxx</City>
+    		<Country>xxx</Country>
+   		<Email>xxx</Email>
+	</User>	
+</Users>	
